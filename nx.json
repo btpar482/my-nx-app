@@ -64,7 +64,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/api-e2e/**/*"]
+      "exclude": ["apps/api-e2e/**/*", "apps/users-app-e2e/**/*"]
     },
     {
       "plugin": "@nx/js/typescript",
